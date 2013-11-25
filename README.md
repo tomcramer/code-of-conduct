@@ -1,20 +1,14 @@
-Code4lib Anti-Harassment Policy
-===============================
+About the Project Hydra Code of Conduct
+=======================================
 
-This is a repository to provide a space to draft and allow for dialog in the creation of an anti-harassment policy for the [Code4lib](http://code4lib.org/) annual conference. 
+This is a repository to provide a space to draft and allow for dialog in the creation of a code of conduct for the [Project Hydra](http://projecthydra.org/) community, including virtual and face-to-face interactions.
 
 Resources for policies/starting points:
 
 * [The Ada Initiative: Anti-harassment work](http://adainitiative.org/what-we-do/conference-policies/)
 * [Geek Feminism Wiki: example anti-harassment policy for conferences](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-* [howto hack code4lib: don't be sexist/racist/*ist](http://wiki.code4lib.org/index.php/How_to_hack_code4lib#Don.27t_be_sexist.2Fracist.2F.2Aist)
-* [CAUT Anti-harassment and Non-Discrimination Statement](https://www.caut.ca/pages.asp?page=302&lang=1)
-* [AAI Anti-harassment policy](http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole. 
-
-## Open questions
-
-* How do we cover not only the conference/IRL interactions, but IRC, etc. too?
-* Do we require a [duty officer](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Duty_officer) explicitly? Is it fair/reasonable/workable to have conference staff be in that role?
+* [Open Repositories 2013 Code of Conduct](http://or2013.net/content/code-conduct)
+* [Digital Library Federation Code of Conduct](http://www.diglib.org/about/code-of-conduct/)
 
 ## License
 
@@ -22,13 +16,13 @@ Resources for policies/starting points:
 
 ## Discuss
 
-Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/cgi-bin/wa?SUBED1=CODE4LIB&A=1) or by creating a new issue: https://github.com/code4lib/antiharassment-policy/issues/new
+Discussion is welcome either on the [hydra-tech listserv](https://groups.google.com/group/hydra-tech) or by creating a new issue: https://github.com/projecthydra/code-of-conduct/issues/new
 
 ## Contribute
 
 ### Using Github (doesn't require knowing Git)
 
-1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy (click the "Fork" button in the upright corner of the page)
+1. Fork the codebase e.g. to https://github.com/your-username/code-of-conduct (click the "Fork" button in the upright corner of the page)
 1. Click the link for one of the files (e.g. `code_of_conduct.md`)
 1. Click the Edit button
 1. Add a commit summary and (optionally) an extended description
@@ -37,11 +31,9 @@ Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/
 
 ### Using Git
 
-1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy
-1. Clone your fork locally (`git clone
-git@github.com:your-username/antiharassment-policy.git my-antiharassment-policy`)
+1. Fork the codebase e.g. to https://github.com/your-username/code-of-conduct
+1. Clone your fork locally (`git clone git@github.com:your-username/code-of-conduct.git my-code-of-conduct`)
 1. Create a branch to hold your changes (`git checkout -b my-changes`)
-1. Commit the changes you've made (`git commit -am "Some descriptive text around
-what you've added"`)
+1. Commit the changes you've made (`git commit -am "Some descriptive text around what you've added"`)
 1. Push your branch to github (`git push origin my-changes`)
-1. Create a pull request e.g. at https://github.com/your-username/antiharassment-policy/pull/new/master
+1. Create a pull request e.g. at https://github.com/your-username/code-of-conduct/pull/new/master
