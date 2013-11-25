@@ -7,7 +7,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the Open Repositories conference. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a local meeting organizer or the [Project Hydra steering group](mailto:hydra-steering@googlegroups.com) immediately.
+If a participant engages in harassing behavior, event organizers or Steering Group representatives may take any action they deem appropriate, including warning the offender or expulsion from the meeting or other community channels. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a local meeting organizer or the [Project Hydra steering group](mailto:hydra-steering@googlegroups.com) immediately.
 
 Project Hydra meeting organizers can be identified by their name badges, and will help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. If you are in the #projecthydra IRC channel, a bot named "zoia" can list people designated as channel helpers if you issue the `@helpers` command. Each person in that list has volunteered to help victims of harassment.
 
