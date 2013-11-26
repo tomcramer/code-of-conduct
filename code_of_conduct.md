@@ -5,7 +5,7 @@ Project Hydra is dedicated to providing a harassment-free community experience f
 
 Participants in Project Hydra communication channels violating these rules may be sanctioned or expelled at the discretion of the organizers of the meeting (if the channel is an in-person event) or the Project Hydra Steering Group (if the channel is online).
 
-Harassment includes offensive verbal comments related to sex, gender, ethnicity, nationality, socioeconomic status, sexual orientation, disability, physical appearance, body size, age, race, religion, sexual and or discriminatory images in public spaces, deliberate intimidation, stalking, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to sex, gender, ethnicity, nationality, socioeconomic status, sexual orientation, disability, physical appearance, body size, age, race, religion, sexual and/or discriminatory images in public spaces, deliberate intimidation, stalking, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
