@@ -9,9 +9,11 @@ Harassment includes offensive verbal comments related to sex, gender, ethnicity,
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, event organizers or Steering Group representatives may take any action they deem appropriate, including warning the offender, expulsion from the meeting or other community channels, or contacting a higher authority such as a representative from the offender's institution. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a local meeting organizer or the [Project Hydra Steering Group](mailto:hydra-steering@googlegroups.com) immediately.
+If a participant engages in harassing behavior, event organizers and Steering Group representatives (or their designees) may take any action they deem appropriate, including warning the offender, expulsion from the meeting or other community channels, or contacting a higher authority such as a representative from the offender's institution.
 
-Project Hydra meeting organizers can be identified by their name badges, and will help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meeting/conference. If you are in the #projecthydra IRC channel, a bot named "zoia" can list people designated as channel helpers if you issue the `@helpers` command. Each person in that list has volunteered to help victims of harassment.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a local meeting organizer, the [Hydra community helpers](mailto:helpers@projecthydra.org), or the [Project Hydra Steering Group](mailto:hydra-steering@googlegroups.com) immediately.
+
+Project Hydra meeting organizers can be identified by their name badges, and will help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meeting/conference. If you are in the #projecthydra IRC channel, a bot named "zoia" can list people designated as channel helpers if you issue the `@helpers` command. Each person in that list has volunteered to help victims of harassment. The list of [Hydra community helpers](mailto:helpers@projecthydra.org) is also available on the Hydra wiki.
 
 We expect participants to follow these rules at all meeting venues, meeting-related social events, community gatherings, and online communication channels.
 
