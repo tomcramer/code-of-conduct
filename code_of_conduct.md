@@ -1,7 +1,9 @@
 Project Hydra Code of Conduct
 =============================
 
-Project Hydra is dedicated to providing a harassment-free community experience for everyone. We do not tolerate harassment in any form.  Sexual or discriminatory language and imagery is not appropriate for any event venue, including talks, or any community channel such as IRC-based chatrooms or mailing lists.
+Project Hydra is dedicated to providing a harassment-free community experience for everyone. Project Hydra was conceived and executed as a collaborative, open source effort from its very beginning, committed to openness and transparency in all that it does: code, designs, discussions.  We are equally committed to helpful and respectful communication.
+
+Project Hydra has established the following code of conduct to make it clear that we do not tolerate harassment in any form. Sexual or discriminatory language and imagery is not appropriate for any event venue, including talks, or any community channel such as IRC-based chatrooms or mailing lists.
 
 Harassment includes: offensive verbal comments related to sex, gender, ethnicity, nationality, socioeconomic status, sexual orientation, disability, physical appearance, body size, age, race, religion; sexual or discriminatory images in public spaces; deliberate intimidation; stalking; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
 
