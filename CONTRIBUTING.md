@@ -19,7 +19,7 @@ Pull requests are welcome!
 
 ### Using Git
 
-1. Fork the codebase e.g. toh ttps://github.com/your-username/anti-harassment_policy
+1. Fork the codebase e.g. to https://github.com/your-username/anti-harassment_policy
 1. Clone your fork locally (`git clone git@github.com:your-username/anti-harassment_policy.git my-anti-harassment_policy`)
 1. Create a branch to hold your changes (`git checkout -b my-changes`)
 1. Commit the changes you've made (`git commit -am "Some descriptive text around what you've added"`)
