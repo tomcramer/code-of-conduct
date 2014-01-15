@@ -8,3 +8,8 @@ Hydra Helpers
 * Michael B. Klein, Northwestern University (michael.klein@northwestern.edu, mbklein on GitHub, Twitter, Freenode)
 * Chris Awre, University of Hull (c.awre@hull.ac.uk, clawre on GitHub and Twitter)
 * Your name here
+
+NOTE: AS OF JANUARY 2014, THIS LIST HAS BEEN SUPERSEDED BY A PAGE ON THE HYDRA WIKI @ https://wiki.duraspace.org/display/hydra/Hydra+Community+Helpers
+
+PLEASE MAKE FUTURE UPDATES TO THIS LIST THERE. 
+
